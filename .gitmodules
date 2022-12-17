@@ -7,3 +7,6 @@
 [submodule "hero"]
 	path = hero
 	url = git@github.com:madalenaye/hero.git
+[submodule "numbers"]
+	path = numbers
+	url = git@github.com:madalenaye/numbers.git
