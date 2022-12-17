@@ -10,3 +10,6 @@
 [submodule "numbers"]
 	path = numbers
 	url = git@github.com:madalenaye/numbers.git
+[submodule "patterns"]
+	path = patterns
+	url = git@github.com:madalenaye/patterns.git
