@@ -4,3 +4,6 @@
 [submodule "Operations"]
 	path = Operations
 	url = git@github.com:Sereno1710/Operations.git
+[submodule "hero"]
+	path = hero
+	url = git@github.com:madalenaye/hero.git
