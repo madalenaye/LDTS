@@ -13,3 +13,6 @@
 [submodule "patterns"]
 	path = patterns
 	url = git@github.com:madalenaye/patterns.git
+[submodule "refactoring"]
+	path = refactoring
+	url = git@github.com:madalenaye/refactoring.git
