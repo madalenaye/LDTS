@@ -1,3 +1,6 @@
 [submodule "helloworld"]
 	path = helloworld
 	url = git@github.com:madalenaye/helloworld.git
+[submodule "Operations"]
+	path = Operations
+	url = git@github.com:Sereno1710/Operations.git
